@@ -1,6 +1,6 @@
 def main():
     ##################################################
-    # Comlete your code here
+    # Complete your code here
     ##################################################
     
     import random
